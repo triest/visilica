@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="Tasks1.simpleNumbers(num)" />
+        <added pattern="Point.Point(x,y)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

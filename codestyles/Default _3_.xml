@@ -1,0 +1,8 @@
+<code_scheme name="Default (3)">
+  <codeStyleSettings language="JAVA">
+    <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+    <option name="SPACE_WITHIN_IF_PARENTHESES" value="true" />
+    <option name="SPACE_BEFORE_TYPE_PARAMETER_LIST" value="true" />
+  </codeStyleSettings>
+</code_scheme>
